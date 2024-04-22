@@ -1,0 +1,9 @@
+{
+	"name": "adf-ignite-2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f8a20b0-ad9a-4159-a973-f6f4edc63812",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
